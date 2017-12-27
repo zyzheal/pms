@@ -92,6 +92,3 @@ http://127.0.0.1:8000
 admin admin
 ```
 
-主站：www.smallmi.com
-
-项目演示：http://demo.smallmi.com
